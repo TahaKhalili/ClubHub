@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ClubHub</string>
+    <string name="clubs_forum">Clubs forum</string>
+    <string name="add_your_activity_location"><![CDATA[Add your activity & location!]]></string>
+    <string name="info">Info</string>
+    <string name="posts">Posts</string>
+    <string name="map">Map</string>
+    <string name="init">Init...</string>
+    <string name="error">Error...</string>
+    <string name="date_posted">"Date posted: "</string>
+    <string name="delete">Delete</string>
+    <string name="club_hub">Club Hub</string>
+    <string name="find_and_explore_activities_around_you">Find and explore activities around you!</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="register">Register</string>
+    <string name="signin_ok">Signin OK</string>
+    <string name="register_ok">Register OK</string>
+    <string name="selected_location">Selected location</string>
+    <string name="add_the_location_to_your_activity_above">Add the location to your activity above ^</string>
+    <string name="post_title">Post title</string>
+    <string name="post_body">Post body</string>
+    <string name="please_select_a_location_on_the_map_before_sending_your_post">Please select a location on the map before sending your post.</string>
+    <string name="send">Send</string>
+    <string name="cancel">Cancel</string>
+    <string name="post_uploaded">Post uploaded.</string>
+    <string name="loadingicon">LoadingIcon</string>
+    <string name="lat_lng">Lat: %1$s.2f, Lng: %2$s.2f</string>
+    <string name="error_format">Error: %1$s</string>
+    <string name="enter_the_meeting_times">Enter the meeting times</string>
+</resources>
